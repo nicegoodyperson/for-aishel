@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💗💗",
+    pageTitle: "Will You Be My Valentine? ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -25,12 +25,12 @@ const CONFIG = {
             text: "do you lovee mee?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't just love you mahll kooo, I love youuu sosoosmuchhh! ❤️"           // Secret hover message
+            secretAnswer: "I don't just love you mahll kooo, I love youuu sosoosmuchhh! "           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next "                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-            extreme: "grabi ka haaa 🥰🚀💝",  // Shows when they go past 5000%
-        high: "napakalakiii 🚀💝",             // Shows when they go past 1000%
-        normal: "yeyyyyyyyeyyeyeyey 🥰"                           // Shows when they go past 100%
+            extreme: "grabi ka haaa ",  // Shows when they go past 5000%
+        high: "napakalakiii ",             // Shows when they go past 1000%
+        normal: "yeyyyyyyyeyyeyeyey HAHAHAHHAHAHA"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "HAHAHAHAHHHA THANKS SIGE LODS 🎉💝💖💝💓",
+        title: "HAHAHAHAHHHA THANKS SIGE LODS ",
         message: "ill give you a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💖💖💖💖💖💖💖"  // These will bounce around
     },
 
     // Color scheme for the website
